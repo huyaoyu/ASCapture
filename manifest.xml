@@ -1,0 +1,22 @@
+<package>
+  <description brief="sample_pipeline">
+
+     sample_pipeline
+
+  </description>
+  <author>wenshan</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/sample_pipeline</url>
+  <depend package="rospy"/>
+  <depend package="std_msgs"/>
+  <depend package="geometry_msgs"/>
+  <depend package="roadmap_generator"/>
+  <depend package="expo_base"/>
+  <depend package="visualization_msgs"/>
+  <depend package="planner_base"/>
+  <depend package="sensor_msgs"/>
+
+</package>
+
+

@@ -1,0 +1,6 @@
+*.pyc
+*.npy
+*.npz
+*.ply
+src/PointCloud_Carwelding/
+
